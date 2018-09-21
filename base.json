@@ -1,7 +1,0 @@
-{"cryptocurrency":[
-  {"name":"bitcoin","ticker":"BTC","founder":"Satoshi Nakamoto"},
-  {"name":"dogecoin","ticker":"DOGE","founder":"Jackson Palmer"},
-  {"name":"ether","ticker":"ETH","founder":"Vitalik Buterin"},
-  {"name":"litecoin","ticker":"LTC","founder":"Charlie Lee"},
-  {"name":"monero","ticker":"XMR","founder":"Nicolas Van Saberhagen"},
-]}
